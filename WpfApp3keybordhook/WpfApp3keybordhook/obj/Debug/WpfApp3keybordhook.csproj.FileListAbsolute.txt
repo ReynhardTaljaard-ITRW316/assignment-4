@@ -1,0 +1,15 @@
+C:\Users\Reynhard\Documents\Visual Studio 2017\Projects\WpfApp3keybordhook\WpfApp3keybordhook\bin\Debug\WpfApp3keybordhook.exe.config
+C:\Users\Reynhard\Documents\Visual Studio 2017\Projects\WpfApp3keybordhook\WpfApp3keybordhook\bin\Debug\WpfApp3keybordhook.exe
+C:\Users\Reynhard\Documents\Visual Studio 2017\Projects\WpfApp3keybordhook\WpfApp3keybordhook\bin\Debug\WpfApp3keybordhook.pdb
+C:\Users\Reynhard\Documents\Visual Studio 2017\Projects\WpfApp3keybordhook\WpfApp3keybordhook\obj\Debug\WpfApp3keybordhook.csprojAssemblyReference.cache
+C:\Users\Reynhard\Documents\Visual Studio 2017\Projects\WpfApp3keybordhook\WpfApp3keybordhook\obj\Debug\MainWindow.g.cs
+C:\Users\Reynhard\Documents\Visual Studio 2017\Projects\WpfApp3keybordhook\WpfApp3keybordhook\obj\Debug\App.g.cs
+C:\Users\Reynhard\Documents\Visual Studio 2017\Projects\WpfApp3keybordhook\WpfApp3keybordhook\obj\Debug\WpfApp3keybordhook_MarkupCompile.cache
+C:\Users\Reynhard\Documents\Visual Studio 2017\Projects\WpfApp3keybordhook\WpfApp3keybordhook\obj\Debug\WpfApp3keybordhook_MarkupCompile.lref
+C:\Users\Reynhard\Documents\Visual Studio 2017\Projects\WpfApp3keybordhook\WpfApp3keybordhook\obj\Debug\MainWindow.baml
+C:\Users\Reynhard\Documents\Visual Studio 2017\Projects\WpfApp3keybordhook\WpfApp3keybordhook\obj\Debug\WpfApp3keybordhook.g.resources
+C:\Users\Reynhard\Documents\Visual Studio 2017\Projects\WpfApp3keybordhook\WpfApp3keybordhook\obj\Debug\WpfApp3keybordhook.Properties.Resources.resources
+C:\Users\Reynhard\Documents\Visual Studio 2017\Projects\WpfApp3keybordhook\WpfApp3keybordhook\obj\Debug\WpfApp3keybordhook.csproj.GenerateResource.cache
+C:\Users\Reynhard\Documents\Visual Studio 2017\Projects\WpfApp3keybordhook\WpfApp3keybordhook\obj\Debug\WpfApp3keybordhook.csproj.CoreCompileInputs.cache
+C:\Users\Reynhard\Documents\Visual Studio 2017\Projects\WpfApp3keybordhook\WpfApp3keybordhook\obj\Debug\WpfApp3keybordhook.exe
+C:\Users\Reynhard\Documents\Visual Studio 2017\Projects\WpfApp3keybordhook\WpfApp3keybordhook\obj\Debug\WpfApp3keybordhook.pdb
